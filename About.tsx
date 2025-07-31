@@ -43,7 +43,7 @@ export default function About() {
     },
     {
       icon: Users,
-      title: "2,500+ Transformations",
+      title: "500+ Transformations",
       description: "Successfully performed procedures with natural results",
       color: "text-blue-600",
       bgColor: "bg-blue-100",
@@ -135,7 +135,7 @@ export default function About() {
         "Launched virtual consultations and advanced 3D imaging technology for better patient experience.",
     },
     {
-      year: "2024",
+      year: "2025",
       title: "Excellence Award",
       description:
         "Named 'Best Aesthetic Surgery Center in East Africa' by the African Medical Excellence Awards.",
